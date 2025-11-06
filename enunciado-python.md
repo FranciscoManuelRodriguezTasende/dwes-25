@@ -1,6 +1,6 @@
 # 0) Pasos previos
 
-Crea una carpeta llamada sprint0python en tu repositorio de Desarrollo de Interfaces. 
+Crea una carpeta llamada sprint3python en tu repositorio de DWES. 
 
 Haz un commit después de cada ejercicio terminado. 
 

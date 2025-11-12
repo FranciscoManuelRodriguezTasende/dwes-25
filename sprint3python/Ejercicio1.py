@@ -18,7 +18,7 @@ while True:
             maximo = 500
             break
         else:
-            print("❌ Nivel no válido. Escribe 'fácil', 'medio' o 'difícil'.\n")
+            print("Nivel no válido. Escribe 'fácil', 'medio' o 'difícil'.\n")
 
     numero_secreto = random.randint(1, maximo)
     intentos = 0

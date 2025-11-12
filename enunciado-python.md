@@ -397,6 +397,22 @@ Y tres métodos:
 En el `main`, crea una lista vacía `tareas = []`.
 Cada vez que el usuario crea una tarea, **añádela** a la lista.
 
+* `main` es un método que se define de la siguiente manera:
+
+```python
+def main():
+    tareas = []
+
+```
+A continuación irá toda la lógica de la aplicación y se irán instanciando las clases y ejecutando métodos y funciones.
+
+Al final del archivo lo ejecutaremos con el siguiente código:
+
+```python
+if __name__ == "__main__":
+    main()
+
+```
 ---
 
 ### 4️⃣ Menú principal
@@ -434,6 +450,9 @@ Cada vez que el usuario crea una tarea, **añádela** a la lista.
 * `self` representa la propia instancia del objeto.
 * Cada objeto tiene sus propios valores de atributos.
 * Los métodos se llaman con la notación `objeto.metodo()`.
+
+
+
 
 ---
 
